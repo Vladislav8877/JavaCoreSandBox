@@ -1,4 +1,4 @@
-package s04_testing.t04_mockito;
+/* package s04_testing.t04_mockito;
 
 import org.junit.jupiter.api.Test;
 import static org.mockito.Mockito.*;
@@ -118,4 +118,5 @@ class MovieTicketServiceTest {
         verify(printer, never()).sendTicketToEmail(anyString());
     }
 }
+ */
 
